@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <generator>RSS Builder by B!Soft</generator>
+    <title>kinisis DSS newsfeed</title>
+    <link>http://www.eng.ucy.ac.cy/ctim/ronda/</link>
+    <description>RSS newsfeed for the 'kinisis DSS' platform</description>
+    <language>en-us</language>
+    <copyright>UCY/CTIM </copyright>
+    <item>
+      <title>Pre-release of several 'kinisis DSS' Dashboards (IV)</title>
+      <pubDate>Mon, 9 May 2022 09:40:00 +0300</pubDate>
+      <link>https://twitter.com/SymeonChristodo/status/1523551263996379137</link>
+      <author>schristo@ucy.ac.cy</author>
+      <comments>http://www.eng.ucy.ac.cy/step2smart/rss/20220509_RSSimg04.png</comments>
+      <category>Project Update</category>
+      <description><![CDATA[Traffic data is sourced from the Ministry of Transport's Diavlos platform and from UAVs; transport condition data is crowd-sourced from custom-made low-cost vibration and image sensors; while air-quality and metereology data is sourced from Cyprus' open-data portal.]]></description>
+    </item>
+    <item>
+      <title>Pre-release of several 'kinisis DSS' Dashboards (III)</title>
+      <pubDate>Mon, 9 May 2022 09:33:00 +0300</pubDate>
+      <link>https://twitter.com/SymeonChristodo/status/1523551263996379137</link>
+      <author>schristo@ucy.ac.cy</author>
+      <comments>http://www.eng.ucy.ac.cy/step2smart/rss/20220509_RSSimg03.png</comments>
+      <category>Project Update</category>
+      <description><![CDATA[The Air-Quality Dashboard gathers, in 60-minute intervals, air-quality data from several national sources and presents it in spatiotemporal graphs, by location and pollutant.]]></description>
+    </item>
+    <item>
+      <title>Pre-release of several 'kinisis DSS' Dashboards (II)</title>
+      <pubDate>Mon, 9 May 2022 09:32:00 +0300</pubDate>
+      <link>https://twitter.com/SymeonChristodo/status/1523551263996379137</link>
+      <author>schristo@ucy.ac.cy</author>
+      <comments>http://www.eng.ucy.ac.cy/step2smart/rss/20220509_RSSimg02.png</comments>
+      <category>Project Update</category>
+      <description><![CDATA[The Metereology Dashboard gathers, in 10-minute intervals, metereological data from several national sources and presents it in spatiotemporal graphs, by location and metereological KPI.]]></description>
+    </item>
+    <item>
+      <title>Pre-release of several 'kinisis DSS' Dashboards (I)</title>
+      <pubDate>Mon, 9 May 2022 09:31:00 +0300</pubDate>
+      <link>https://twitter.com/SymeonChristodo/status/1523551263996379137</link>
+      <author>schristo@ucy.ac.cy</author>
+      <comments>http://www.eng.ucy.ac.cy/step2smart/rss/20220509_RSSimg01.png</comments>
+      <category>Project Update</category>
+      <description><![CDATA[UCY's Construction & Transport Infrastructure Management Division announces the pre-release of a decision support system (DSS), a webGIS  & a number of dashboards on traffic & transport infrastructure assessment, air-quality & metereology monitoring, for Cyprus. The work, partially funded by the Cyprus Research and Innovation Foundation and Interreg Greece-Cyprus is partnered with UCY, the KIOS CoE, the Cyprus Ministry of Transport, Communications and Works,  Signalgenerix, Geoimagin and the Lakatamia Municipality. ]]></description>
+    </item>
+    <item>
+      <title>RONDA architecture schematic issued</title>
+      <pubDate>Sun, 24 May 2020 09:00:00 +0300</pubDate>
+      <category>Project Update</category>
+      <description><![CDATA['RONDA' issues a schematic of the system's proposed architecture. Technical specifications and data flows will be released by the end of April 2020.  ]]></description>
+    </item>
+    <item>
+      <title>The RONDA project kicks off</title>
+      <pubDate>Tue, 21 May 2019 08:30:00 +0300</pubDate>
+      <category>Project Update</category>
+      <description><![CDATA['RONDA' kicks off, with an inagaural consortium meeting at the University of Cyprus. Several outstanding pieces of the 'RONDA' puzzle have been put into place and the consortium is ready to proceed.  
+]]></description>
+    </item>
+  </channel>
+</rss>

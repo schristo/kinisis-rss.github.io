@@ -1,8 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to the 'kinisis DSS' RSS newsfeed
 
-You can use the [editor on GitHub](https://github.com/schristo/kinisis-rss.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The site serves as a window to the 'kinisis DSS' news about the progress made on the deployment of the platform, and on traffic/infrastructure-related news for Cyprus.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The site includes an RSS/Atom newsfeed for the 'kinisis' Decision Support System, currently in development. The platform collects, processes and archives (providing chronological and spatial access) to urban mobility, urban-infrastructure conditon assessment, air-quality and metereology data in Cyprus, providing several dashboards and APIs.
+
+The RSS feed is provided through a semi-automativally generated .xml file, containing project-related and platform-related news.
 
 ### Markdown
 

@@ -5,4 +5,4 @@ The platform collects, processes and archives (providing chronological and spati
 
 The RSS feed is provided through a semi-automativally generated .xml file, containing project-related and platform-related news.
 
-A related website can be accessed at https://kinisis-rss.github.io/
+A related website can be accessed at https://schristo.github.io/kinisis-rss.github.io/

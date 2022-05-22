@@ -1,6 +1,6 @@
 ## Welcome to the 'kinisis DSS' RSS newsfeed
 
-The site serves as a window to the 'kinisis DSS' news about the progress made on the deployment of the platform, and on traffic/infrastructure-related news for Cyprus.  
+The site serves as a window to the '**_kinisis DSS_**' news about the progress made on the deployment of the platform, and on traffic/infrastructure-related news for Cyprus.  
 
 The site includes an RSS/Atom newsfeed for the 'kinisis' Decision Support System, currently in development. The platform collects, processes and archives (providing chronological and spatial access) to urban mobility, urban-infrastructure conditon assessment, air-quality and metereology data in Cyprus, providing several dashboards and APIs.
 
@@ -10,7 +10,9 @@ The RSS feed is provided through a semi-automativally generated .xml file, conta
 
 The **kinisis DSS** platform is a Decision Support System
 
-```Key characteristics of the **_kinisis DSS_** platform
+<span style="color:blue">Key characteristics of the **_kinisis DSS_** platform</span>
+
+
 Syntax highlighted code block
 
 # Header 1

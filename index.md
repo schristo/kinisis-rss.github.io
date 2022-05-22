@@ -6,11 +6,11 @@ The site includes an RSS/Atom newsfeed for the 'kinisis' Decision Support System
 
 The RSS feed is provided through a semi-automativally generated .xml file, containing project-related and platform-related news.
 
-### Markdown
+### A Few Words about the 'kinisis DSS' platform
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The **kinisis DSS** platform is a Decision Support System
 
-```markdown
+```Key characteristics of the **_kinisis DSS_** platform
 Syntax highlighted code block
 
 # Header 1
